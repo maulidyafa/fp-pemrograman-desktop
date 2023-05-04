@@ -1,0 +1,15 @@
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Formdtcustomer.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Formdtmakan.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Formlogin.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Formutama.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Formdtbahan.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Resources.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.Transaksi_Penjualan.resources
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.vbproj.GenerateResource.Cache
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\bin\Debug\UTS_20082010102_C.exe
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\bin\Debug\UTS_20082010102_C.pdb
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\bin\Debug\UTS_20082010102_C.xml
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.exe
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.xml
+C:\Users\owner\Documents\Visual Studio 2005\Projects\UTS_20082010102_C\UTS_20082010102_C\obj\Debug\UTS_20082010102_C.pdb
